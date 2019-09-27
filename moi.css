@@ -1,0 +1,38 @@
+table {
+	border-style: solid;
+	border-color: black;
+	border-collapse: collapse;
+	width: 99%;
+	float: center;
+}
+
+td {
+	border-style: solid;
+	border-color: black;
+	text-align: center;
+	height:50px;
+}
+
+.description {
+	text-align: left;
+	width: 37.5%;
+}
+
+.caseshaut {
+	font-family: Times New Roman;
+	font-variant: small-caps;
+	font-size: 30px;
+	width: 37.5%;
+
+}
+
+.casesgauche {
+	font-variant: small-caps;
+	font-size: 20px;
+	width: 25%;
+}
+
+#caseunique {
+	background-color: rgba(0, 4, 0, 0.5);
+	width: 25%;
+}
